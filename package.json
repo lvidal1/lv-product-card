@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-rc",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -8,10 +8,10 @@
     "src"
   ],
   "repository": {
-    "url": "https://github.com/Klerith/lv-product-card",
+    "url": "https://github.com/lvidal1/lv-product-card",
     "type": "git"
   },
-  "homepage": "https://fernanlv-herrera.com",
+  "homepage": "https://lvidal.pe",
   "engines": {
     "node": ">=10"
   },
